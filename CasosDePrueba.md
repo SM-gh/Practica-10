@@ -9,7 +9,7 @@ TestCase ID/ TC1R1
 3. Seleccionar “Suma”.
 4. Presionar el botón “Resolver”.
 *Expect Results:* 
-La aplicación debe de desplegar el resultado “Alguno(s) de los elementos no es válido”.
+La aplicación debe de desplegar el resultado “Algun elemento no es válido”.
 *Pass/Fail:*
 <p align="center">
   <img width="300" height="link">
@@ -23,7 +23,7 @@ TestCase ID/ TC2R1
 3. Seleccionar “Suma”.
 4. Presionar el botón “Resolver”.
 *Expect Results:* 
-La aplicación debe de desplegar el resultado “Alguno(s) de los elementos no es válido”.
+La aplicación debe de desplegar el resultado “Algun elemento no es válido”.
 *Pass/Fail:*
 <p align="center">
   <img width="300" height="link">
@@ -37,7 +37,7 @@ TestCase ID/ TC3R1
 3. Seleccionar “Suma”.
 4. Presionar el botón “Resolver”.
 *Expect Results:* 
-La aplicación debe de desplegar el resultado “Alguno(s) de los elementos no es válido”.
+La aplicación debe de desplegar el resultado “Algun elemento no es válido”.
 *Pass/Fail:*
 <p align="center">
   <img width="300" height="link">
@@ -51,7 +51,7 @@ TestCase ID/ TC4R1
 3. Seleccionar “Suma”.
 4. Presionar el botón “Resolver”.
 *Expect Results:* 
-La aplicación debe de desplegar el resultado “Alguno(s) de los elementos no es válido”.
+La aplicación debe de desplegar el resultado “Algun elemento no es válido”.
 *Pass/Fail:*
 <p align="center">
   <img width="300" height="link">
@@ -65,7 +65,7 @@ TestCase ID/ TC5R1
 3. Seleccionar “Resta”.
 4. Presionar el botón “Resolver”.
 *Expect Results:* 
-La aplicación debe de desplegar el resultado “Alguno(s) de los elementos no es válido”.
+La aplicación debe de desplegar el resultado “Algun elemento no es válido”.
 *Pass/Fail:*
 <p align="center">
   <img width="300" height="link">

@@ -1,4 +1,6 @@
-### **Objetivo:**
+# Practica 10
+
+### **Objetivo del cliente:** 
 
 Desarrollar una herramienta que permita sumar y restar el conjunto de números reales, enteros.
 El resultado se debe de desplegar una vez que se presionó el boton de "Resultado" en la aplicación y no debe de ser mayor a 4 dígitos. 

@@ -14,7 +14,7 @@ La aplicación debe de desplegar el resultado “Alguno(s) de los elementos no e
 *Pass/Fail:*
 
 <p align="center">
-  <img width="300" height="https://user-images.githubusercontent.com/38449287/49734539-8908ce00-fc7c-11e8-963e-38d64a280514.png">
+  <img width="250" height="400" src="https://user-images.githubusercontent.com/38449287/49734539-8908ce00-fc7c-11e8-963e-38d64a280514.png">
 </p>
 
 TestCase ID/ TC2R1 

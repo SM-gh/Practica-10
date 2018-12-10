@@ -9,7 +9,7 @@ TestCase ID/ TC1R1
 3. Seleccionar “Suma”.
 4. Presionar el botón “Resolver”.
 *Expect Results:* 
-La aplicación debe de desplegar el resultado “Alguno(s) de los elementos no es válido”.
+La aplicación debe de desplegar el resultado “Algun elemento no es válido”.
 
 *Pass/Fail:*
 
@@ -25,7 +25,7 @@ TestCase ID/ TC2R1
 3. Seleccionar “Suma”.
 4. Presionar el botón “Resolver”.
 *Expect Results:* 
-La aplicación debe de desplegar el resultado “Alguno(s) de los elementos no es válido”.
+La aplicación debe de desplegar el resultado “Algun elemento no es válido”.
 
 *Pass/Fail:*
 
@@ -41,7 +41,7 @@ TestCase ID/ TC3R1
 3. Seleccionar “Suma”.
 4. Presionar el botón “Resolver”.
 *Expect Results:* 
-La aplicación debe de desplegar el resultado “Alguno(s) de los elementos no es válido”.
+La aplicación debe de desplegar el resultado “Algun elemento no es válido”.
 
 *Pass/Fail:*
 
@@ -57,7 +57,7 @@ TestCase ID/ TC4R1
 3. Seleccionar “Suma”.
 4. Presionar el botón “Resolver”.
 *Expect Results:* 
-La aplicación debe de desplegar el resultado “Alguno(s) de los elementos no es válido”.
+La aplicación debe de desplegar el resultado “Algun elemento no es válido”.
 
 *Pass/Fail:*
 
@@ -73,7 +73,7 @@ TestCase ID/ TC5R1
 3. Seleccionar “Suma”.
 4. Presionar el botón “Resolver”.
 *Expect Results:* 
-La aplicación debe de desplegar el resultado “Alguno(s) de los elementos no es válido”.
+La aplicación debe de desplegar el resultado “Algun elemento no es válido”.
 
 *Pass/Fail:*
 
@@ -89,7 +89,7 @@ TestCase ID/ TC6R1
 3. Seleccionar “Resta”.
 4. Presionar el botón “Resolver”.
 *Expect Results:* 
-La aplicación debe de desplegar el resultado “Alguno(s) de los elementos no es válido”.
+La aplicación debe de desplegar el resultado “Algun elemento no es válido”.
 
 *Pass/Fail:*
 
@@ -105,7 +105,7 @@ TestCase ID/ TC7R1
 3. Seleccionar “Resta”.
 4. Presionar el botón “Resolver”.
 *Expect Results:* 
-La aplicación debe de desplegar el resultado “Alguno(s) de los elementos no es válido”.
+La aplicación debe de desplegar el resultado “Algun elemento no es válido”.
 
 *Pass/Fail:*
 
@@ -121,7 +121,7 @@ TestCase ID/ TC8R1
 3. Seleccionar “Resta”.
 4. Presionar el botón “Resolver”.
 *Expect Results:* 
-La aplicación debe de desplegar el resultado “Alguno(s) de los elementos no es válido”.
+La aplicación debe de desplegar el resultado “Algun elemento no es válido”.
 
 *Pass/Fail:*
 
@@ -137,7 +137,7 @@ TestCase ID/ TC9R1
 3. Seleccionar “Resta”.
 4. Presionar el botón “Resolver”.
 *Expect Results:* 
-La aplicación debe de desplegar el resultado “Alguno(s) de los elementos no es válido”.
+La aplicación debe de desplegar el resultado “Algun elemento no es válido”.
 
 *Pass/Fail:*
 
@@ -154,7 +154,7 @@ TestCase ID/ TC10R1
 3. Seleccionar “Resta”.
 4. Presionar el botón “Resolver”.
 *Expect Results:* 
-La aplicación debe de desplegar el resultado “Alguno(s) de los elementos no es válido”.
+La aplicación debe de desplegar el resultado “Algun elemento no es válido”.
 
 *Pass/Fail:*
 
@@ -448,14 +448,14 @@ TestCase ID/ TC29R1
 4. Presionar el botón “Resolver”.
 5. Presionar el botón “Borrar”.
 *Expect Results:* 
-La aplicación debe de desplegar el resultado 0 al presionar el botón “Resolver”0 y deben vaciarse todos los campos al presionar el botón “Borrar”. 
+La aplicación debe de desplegar el resultado 0 al presionar el botón “Resolver” y deben vaciarse todos los campos al presionar el botón “Borrar”. 
 
 *Pass/Fail:*
 
-<p align="left">
+<p align="center">
   <img width="250" height="400" src="https://user-images.githubusercontent.com/38449287/49735275-b3f42180-fc7e-11e8-808e-2a83e680ae1a.png">
 </p>
 
-<p align="right">
+<p align="center">
   <img width="250" height="400" src="https://user-images.githubusercontent.com/38449287/49735307-cec69600-fc7e-11e8-9c84-338edf1a951f.png">
 </p>
